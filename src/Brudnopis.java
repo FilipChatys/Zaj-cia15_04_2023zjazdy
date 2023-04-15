@@ -3,5 +3,7 @@ public class Brudnopis {
 
         System.out.println("git");
 
+
+        System.out.println("Test zmian w gałęzi");
     }
 }
